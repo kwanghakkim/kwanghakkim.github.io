@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 ---
 
-
+# Curriculum Vitae
 
 You can download my CV as a PDF here:
 
