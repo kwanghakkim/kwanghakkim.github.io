@@ -25,8 +25,8 @@ navbar-links:
   Publications: "publications"
   # Talks: "talks"
   # Blog: "blog"
-  # Resume: "resume"
-   CV: "CV"
+  Resume: "resume"
+  # CV: "CV"
 
 
 ################
