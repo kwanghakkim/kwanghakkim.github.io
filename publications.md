@@ -4,7 +4,7 @@ title: Publications
 ---
 
 You can also browse my
-<a href="https://scholar.google.com/citations?user=Ql2Z_IgAAAAJ&hl=en" target="_blank">
+<a href="https://scholar.google.com/citations?user=Tk6C9KAAAAAJ&hl=en" target="_blank">
 Google Scholar profile
 </a>.
 
@@ -17,6 +17,7 @@ Google Scholar profile
     <b>Constant-Sum High-Order Barrier Functions for Safety Between Parallel Boundaries</b><br>
     <b>Kwang Hak Kim</b>, Mamadou Diagne, Miroslav Krstić<br>
     <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1447–1452.
+    <a href="https://ieeexplore.ieee.org/abstract/document/11107510" target="_blank">Paper</a>
   </li>
 </ul>
 
@@ -30,6 +31,7 @@ Google Scholar profile
     Application to Unknown Moving Obstacle Collision Avoidance</b><br>
     <b>Kwang Hak Kim</b>, Mamadou Diagne, Miroslav Krstić <br>
     <i>American Control Conference (ACC)</i>, pp. 355-360, IEEE, 2025.
+    <a href="https://ieeexplore.ieee.org/abstract/document/11054265/" target="_blank">Paper</a>
   </li>
 </ul>
 
