@@ -16,7 +16,7 @@ Google Scholar profile
   <li>
     <b>Constant-Sum High-Order Barrier Functions for Safety Between Parallel Boundaries</b><br>
     <b>Kwang Hak Kim</b>, Mamadou Diagne, Miroslav Krstić (2025)<br>
-    <i>IEEE Control Systems Letters</i>, 9, 1447–1452.
+    <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1447–1452.
   </li>
 </ul>
 
