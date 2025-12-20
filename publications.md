@@ -15,7 +15,7 @@ Google Scholar profile
 <ul>
   <li>
     <b>Constant-Sum High-Order Barrier Functions for Safety Between Parallel Boundaries</b><br>
-    <b>Kwang Hak Kim</b>, Mamadou Diagne, Miroslav Krstić (2025)<br>
+    <b>Kwang Hak Kim</b>, Mamadou Diagne, Miroslav Krstić<br>
     <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1447–1452.
   </li>
 </ul>
@@ -28,7 +28,7 @@ Google Scholar profile
   <li>
     <b>Robust Control Barrier Function Design for High Relative Degree Systems:
     Application to Unknown Moving Obstacle Collision Avoidance</b><br>
-    <b>Kwang Hak Kim</b>, Mamadou Diagne, Miroslav Krstić (2025)<br>
+    <b>Kwang Hak Kim</b>, Mamadou Diagne, Miroslav Krstić <br>
     <i>American Control Conference (ACC)</i>, pp. 355-360, IEEE, 2025.
   </li>
 </ul>
@@ -40,7 +40,7 @@ Google Scholar profile
 <ul>
   <li>
     <b>Nonholonomic Robot Parking by Feedback—Part I: Modular Strict CLF Designs</b><br>
-    Velimir Todorovski, <b>Kwang Hak Kim</b>, Alessandro Astolfi, Miroslav Krstić (2025)<br>
+    Velimir Todorovski, <b>Kwang Hak Kim</b>, Alessandro Astolfi, Miroslav Krstić <br>
     <i>Submitted to IEEE Transactions on Automatic Control</i>.<br>
     <a href="https://arxiv.org/abs/2511.15119" target="_blank">Paper</a>
   </li>
@@ -50,7 +50,7 @@ Google Scholar profile
   <li>
     <b>Nonholonomic Robot Parking by Feedback—Part II: Nonmodular, Inverse Optimal,
     Adaptive, Prescribed/Fixed-Time and Safe Designs</b><br>
-    <b>Kwang Hak Kim</b>, Velimir Todorovski, Miroslav Krstić (2025)<br>
+    <b>Kwang Hak Kim</b>, Velimir Todorovski, Miroslav Krstić <br>
     <i>Submitted to IEEE Transactions on Automatic Control</i>.<br>
     <a href="https://arxiv.org/abs/2511.15219" target="_blank">Paper</a>
   </li>
@@ -59,7 +59,7 @@ Google Scholar profile
 
   <li>
     <b>Dubins Vehicle Stabilization: Deadbeat Parking and Asymptotic ‘Spinaway’</b><br>
-    Miroslav Krstić, <b>Kwang Hak Kim</b>, Velimir Todorovski (2025)<br>
+    Miroslav Krstić, <b>Kwang Hak Kim</b>, Velimir Todorovski <br>
     <i>Submitted to Automatica</i> (no prepint available).
   </li>
 
@@ -67,7 +67,7 @@ Google Scholar profile
 
   <li>
     <b>Inverse Optimal Feedback and Gain Margins for Unicycle Stabilization</b><br>
-    <b>Kwang Hak Kim</b>, Velimir Todorovski, Miroslav Krstić (2025)<br>
+    <b>Kwang Hak Kim</b>, Velimir Todorovski, Miroslav Krstić <br>
     <i>Submitted to American Control Conference (ACC 2026)</i>.<br>
     <a href="https://arxiv.org/abs/2509.25563" target="_blank">Paper</a>
   </li>
@@ -77,7 +77,7 @@ Google Scholar profile
   <li>
     <b>Modular Design of Strict Control Lyapunov Functions for Global Stabilization of the
     Unicycle in Polar Coordinates</b><br>
-    Velimir Todorovski, <b>Kwang Hak Kim</b>, Miroslav Krstić (2025)<br>
+    Velimir Todorovski, <b>Kwang Hak Kim</b>, Miroslav Krstić <br>
     <i>Submitted to American Control Conference (ACC 2026)</i>.<br>
     <a href="https://arxiv.org/abs/2509.25575" target="_blank">Paper</a>
   </li>
@@ -87,7 +87,7 @@ Google Scholar profile
   <li>
     <b>Integrator Forwarding Design for Unicycles with Constant and Actuated Velocity
     in Polar Coordinates</b><br>
-    Miroslav Krstić, Velimir Todorovski, <b>Kwang Hak Kim</b>, Alessandro Astolfi (2025)<br>
+    Miroslav Krstić, Velimir Todorovski, <b>Kwang Hak Kim</b>, Alessandro Astolfi <br>
     <i>Submitted to American Control Conference (ACC 2026)</i>.<br>
     <a href="https://arxiv.org/abs/2509.25579" target="_blank">Paper</a>
   </li>
@@ -96,7 +96,7 @@ Google Scholar profile
 
   <li>
     <b>Half-Global Deadbeat Parking for Dubins Vehicle</b><br>
-    Miroslav Krstić, <b>Kwang Hak Kim</b>, Velimir Todorovski (2025)<br>
+    Miroslav Krstić, <b>Kwang Hak Kim</b>, Velimir Todorovski <br>
     <i>Submitted to American Control Conference (ACC 2026)</i>.<br>
     <a href="https://arxiv.org/abs/2509.25571" target="_blank">Paper</a>
   </li>
