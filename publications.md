@@ -16,7 +16,7 @@ Google Scholar profile
   <li>
     <b>Constant-Sum High-Order Barrier Functions for Safety Between Parallel Boundaries</b><br>
     <b>Kwang Hak Kim</b>, Mamadou Diagne, Miroslav Krstić<br>
-    <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1447–1452.
+    <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1447–1452.<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/11107510" target="_blank">Paper</a>
   </li>
 </ul>
@@ -30,7 +30,7 @@ Google Scholar profile
     <b>Robust Control Barrier Function Design for High Relative Degree Systems:
     Application to Unknown Moving Obstacle Collision Avoidance</b><br>
     <b>Kwang Hak Kim</b>, Mamadou Diagne, Miroslav Krstić <br>
-    <i>American Control Conference (ACC)</i>, pp. 355-360, IEEE, 2025.
+    <i>American Control Conference (ACC)</i>, pp. 355-360, IEEE, 2025.<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/11054265/" target="_blank">Paper</a>
   </li>
 </ul>
