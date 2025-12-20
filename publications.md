@@ -29,7 +29,7 @@ Google Scholar profile
     <b>Robust Control Barrier Function Design for High Relative Degree Systems:
     Application to Unknown Moving Obstacle Collision Avoidance</b><br>
     <b>Kwang Hak Kim</b>, Mamadou Diagne, Miroslav Krstić (2025)<br>
-    <i>American Control Conference (ACC 2025)</i>, Denver, CO.
+    <i>American Control Conference (ACC)</i>, pp. 355-360, IEEE, 2025.
   </li>
 </ul>
 
