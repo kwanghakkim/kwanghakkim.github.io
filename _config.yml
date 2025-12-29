@@ -54,8 +54,8 @@ round-avatar: true
 social-network-links:
   email: "kwk001@ucsd.edu"
 # github: "bevanda"
-  linkedin: "https://www.linkedin.com/in/kwang-hak-kim/"
-  google-scholar: "https://scholar.google.com/citations?user=Tk6C9KAAAAAJ&hl=en"
+  linkedin: "kwang-hak-kim"
+  google-scholar: "Tk6C9KAAAAAJ&hl=en"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
