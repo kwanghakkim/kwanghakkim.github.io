@@ -685,3 +685,14 @@ td.gutter {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+/* --- Publications page styling --- */
+
+.publication-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.publication-list li {
+  margin-bottom: 1.2em;
+}
