@@ -3,105 +3,95 @@ layout: page
 title: Publications
 ---
 
-You can also browse my
+<p>
+You can also view my publications on 
 <a href="https://scholar.google.com/citations?user=Tk6C9KAAAAAJ&hl=en" target="_blank">
-Google Scholar profile
+Google Scholar
 </a>.
+</p>
 
 <hr>
 
-<h3>🧭 Journal Articles</h3>
+<h3>Journal Articles</h3>
 
-<ul>
+<ul class="publication-list">
   <li>
-    <b>Constant-Sum High-Order Barrier Functions for Safety Between Parallel Boundaries</b><br>
-    <b>Kwang Hak Kim</b>, Mamadou Diagne, Miroslav Krstić<br>
-    <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1447–1452.<br>
+    <strong>Constant-Sum High-Order Barrier Functions for Safety Between Parallel Boundaries</strong><br>
+    <strong>Kwang Hak Kim</strong>, Mamadou Diagne, Miroslav Krstić<br>
+    <em>IEEE Control Systems Letters</em>, vol. 9, pp. 1447–1452, 2025.<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/11107510" target="_blank">Paper</a>
   </li>
 </ul>
 
 <hr>
 
-<h3>🎓 Conference Papers</h3>
+<h3>Conference Papers</h3>
 
-<ul>
+<ul class="publication-list">
   <li>
-    <b>Robust Control Barrier Function Design for High Relative Degree Systems:
-    Application to Unknown Moving Obstacle Collision Avoidance</b><br>
-    <b>Kwang Hak Kim</b>, Mamadou Diagne, Miroslav Krstić <br>
-    <i>American Control Conference (ACC)</i>, pp. 355-360, IEEE, 2025.<br>
+    <strong>Robust Control Barrier Function Design for High Relative Degree Systems:
+    Application to Unknown Moving Obstacle Collision Avoidance</strong><br>
+    <strong>Kwang Hak Kim</strong>, Mamadou Diagne, Miroslav Krstić<br>
+    <em>American Control Conference (ACC)</em>, pp. 355–360, IEEE, 2025.<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/11054265/" target="_blank">Paper</a>
   </li>
 </ul>
 
 <hr>
 
-<h3>🧩 Preprints / Submitted</h3>
+<h3>Preprints and Submissions</h3>
 
-<ul>
+<ul class="publication-list">
+
   <li>
-    <b>Nonholonomic Robot Parking by Feedback—Part I: Modular Strict CLF Designs</b><br>
-    Velimir Todorovski, <b>Kwang Hak Kim</b>, Alessandro Astolfi, Miroslav Krstić <br>
-    <i>Submitted to IEEE Transactions on Automatic Control</i>.<br>
+    <strong>Nonholonomic Robot Parking by Feedback — Part I: Modular Strict CLF Designs</strong><br>
+    Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi, Miroslav Krstić<br>
+    <em>Submitted to IEEE Transactions on Automatic Control</em>.<br>
     <a href="https://arxiv.org/abs/2511.15119" target="_blank">Paper</a>
   </li>
 
-  <br>
-
   <li>
-    <b>Nonholonomic Robot Parking by Feedback—Part II: Nonmodular, Inverse Optimal,
-    Adaptive, Prescribed/Fixed-Time and Safe Designs</b><br>
-    <b>Kwang Hak Kim</b>, Velimir Todorovski, Miroslav Krstić <br>
-    <i>Submitted to IEEE Transactions on Automatic Control</i>.<br>
+    <strong>Nonholonomic Robot Parking by Feedback — Part II: Nonmodular, Inverse Optimal,
+    Adaptive, Prescribed/Fixed-Time, and Safe Designs</strong><br>
+    <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
+    <em>Submitted to IEEE Transactions on Automatic Control</em>.<br>
     <a href="https://arxiv.org/abs/2511.15219" target="_blank">Paper</a>
   </li>
 
-  <br>
-
   <li>
-    <b>Dubins Vehicle Stabilization: Deadbeat Parking and Asymptotic ‘Spinaway’</b><br>
-    Miroslav Krstić, <b>Kwang Hak Kim</b>, Velimir Todorovski <br>
-    <i>Submitted to Automatica</i> (no prepint available).
+    <strong>Dubins Vehicle Stabilization: Deadbeat Parking and Asymptotic “Spinaway”</strong><br>
+    Miroslav Krstić, <strong>Kwang Hak Kim</strong>, Velimir Todorovski<br>
+    <em>Submitted to Automatica</em>.
   </li>
 
-  <br>
-
   <li>
-    <b>Inverse Optimal Feedback and Gain Margins for Unicycle Stabilization</b><br>
-    <b>Kwang Hak Kim</b>, Velimir Todorovski, Miroslav Krstić <br>
-    <i>Submitted to American Control Conference (ACC 2026)</i>.<br>
+    <strong>Inverse Optimal Feedback and Gain Margins for Unicycle Stabilization</strong><br>
+    <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
+    <em>Submitted to American Control Conference (ACC 2026)</em>.<br>
     <a href="https://arxiv.org/abs/2509.25563" target="_blank">Paper</a>
   </li>
 
-  <br>
-
   <li>
-    <b>Modular Design of Strict Control Lyapunov Functions for Global Stabilization of the
-    Unicycle in Polar Coordinates</b><br>
-    Velimir Todorovski, <b>Kwang Hak Kim</b>, Miroslav Krstić <br>
-    <i>Submitted to American Control Conference (ACC 2026)</i>.<br>
+    <strong>Modular Design of Strict Control Lyapunov Functions for Global Stabilization of the
+    Unicycle in Polar Coordinates</strong><br>
+    Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Miroslav Krstić<br>
+    <em>Submitted to American Control Conference (ACC 2026)</em>.<br>
     <a href="https://arxiv.org/abs/2509.25575" target="_blank">Paper</a>
   </li>
 
-  <br>
-
   <li>
-    <b>Integrator Forwarding Design for Unicycles with Constant and Actuated Velocity
-    in Polar Coordinates</b><br>
-    Miroslav Krstić, Velimir Todorovski, <b>Kwang Hak Kim</b>, Alessandro Astolfi <br>
-    <i>Submitted to American Control Conference (ACC 2026)</i>.<br>
+    <strong>Integrator Forwarding Design for Unicycles with Constant and Actuated Velocity
+    in Polar Coordinates</strong><br>
+    Miroslav Krstić, Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi<br>
+    <em>Submitted to American Control Conference (ACC 2026)</em>.<br>
     <a href="https://arxiv.org/abs/2509.25579" target="_blank">Paper</a>
   </li>
 
-  <br>
-
   <li>
-    <b>Half-Global Deadbeat Parking for Dubins Vehicle</b><br>
-    Miroslav Krstić, <b>Kwang Hak Kim</b>, Velimir Todorovski <br>
-    <i>Submitted to American Control Conference (ACC 2026)</i>.<br>
+    <strong>Half-Global Deadbeat Parking for Dubins Vehicle</strong><br>
+    Miroslav Krstić, <strong>Kwang Hak Kim</strong>, Velimir Todorovski<br>
+    <em>Submitted to American Control Conference (ACC 2026)</em>.<br>
     <a href="https://arxiv.org/abs/2509.25571" target="_blank">Paper</a>
   </li>
-</ul>
 
----
+</ul>
