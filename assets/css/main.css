@@ -696,3 +696,165 @@ td.gutter {
 .publication-list li {
   margin-bottom: 1.2em;
 }
+/* =========================================================
+   Academic Navy theme overrides (paste at VERY bottom)
+   Palette:
+     page: #FFFFFF
+     text: #1F2937
+     link: #1E3A8A
+     hover: #1D4ED8
+     light gray bg: #F3F4F6
+     borders: #D1D5DB
+     footer text: #374151
+   ========================================================= */
+
+/* --- Global / text --- */
+body {
+  color: #1F2937;
+  background: #FFFFFF;
+}
+
+/* Links */
+a,
+p a,
+.blog-tags a {
+  color: #1E3A8A;
+}
+
+a:hover,
+a:focus,
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li a:focus,
+.post-preview a:hover,
+.post-preview a:focus {
+  color: #1D4ED8;
+}
+
+/* Selection highlight */
+::selection,
+::-moz-selection {
+  background: #1D4ED8;
+  color: #FFFFFF;
+}
+
+/* Blockquotes */
+blockquote {
+  color: #374151;
+}
+
+/* --- Navbar --- */
+.navbar-custom {
+  background: #F3F4F6;
+  border-bottom: 1px solid #D1D5DB;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li a {
+  color: #111827;
+}
+
+/* Multi-level nav dropdown */
+.navbar-custom .nav .navlinks-container .navlinks-children a {
+  background: #F3F4F6;
+  border-color: #D1D5DB;
+}
+
+/* Hover backgrounds for dropdown container (desktop) + expanded mobile */
+@media only screen and (max-width: 767px) {
+  .navbar-custom .nav .navlinks-container.show-children {
+    background: #E5E7EB;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .navbar-custom .nav .navlinks-container:hover {
+    background: #E5E7EB;
+  }
+}
+
+/* --- Footer --- */
+footer {
+  background: #F3F4F6;
+  border-top: 1px solid #D1D5DB;
+  color: #374151;
+}
+
+footer a {
+  color: #1E3A8A;
+}
+
+footer a:hover,
+footer a:focus {
+  color: #1D4ED8;
+}
+
+/* --- Post preview text + dividers --- */
+.post-preview {
+  border-bottom: 1px solid #D1D5DB;
+}
+
+.post-preview a {
+  color: #111827;
+}
+
+/* Meta text */
+.post-preview .post-meta,
+.post-heading .post-meta,
+.blog-tags {
+  color: #6B7280;
+}
+
+/* --- Headers without image (subtle panel) --- */
+.header-section.has-img .no-img {
+  background: #F3F4F6;
+  box-shadow: 0 0 5px #D1D5DB;
+}
+
+/* --- Pager --- */
+.pager li a {
+  background: #FFFFFF;
+  color: #111827;
+  border: 1px solid #D1D5DB;
+}
+
+.pager li a:hover,
+.pager li a:focus {
+  color: #FFFFFF;
+  background: #1D4ED8;
+  border-color: #1D4ED8;
+}
+
+/* --- Tables --- */
+table tr {
+  border-top: 1px solid #D1D5DB;
+  background-color: #FFFFFF;
+}
+
+table tr:nth-child(2n) {
+  background-color: #F3F4F6;
+}
+
+table tr th,
+table tr td {
+  border: 1px solid #D1D5DB;
+}
+
+/* --- Code blocks --- */
+pre.highlight,
+.highlight > pre,
+td.code pre {
+  background: #F3F4F6;
+  border-left: 7px solid #1E3A8A;
+}
+
+td.code pre {
+  border-color: #1E3A8A;
+}
+
+/* --- Tag hover (avoid harsh gray chip) --- */
+.blog-tags a:hover {
+  background-color: #E5E7EB;
+  color: #1D4ED8;
+}
+
