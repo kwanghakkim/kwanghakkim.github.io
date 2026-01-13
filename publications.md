@@ -35,6 +35,12 @@ Google Scholar
     <em>American Control Conference (ACC)</em>, pp. 355–360, IEEE, 2025.<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/11054265/" target="_blank">Paper</a>
   </li>
+  <li>
+    <strong>Safety-Critical Control Using Fully Nonlinear Equations of Relative Motion for Formation Flying in Cislunar Space</strong><br>
+    Evelia Zapien Ramos, <strong>Kwang Hak Kim</strong>, Miroslav Krstić, Aaron J. Rosengren<br>
+    <em>AIAA SciTech 2026 Forum</em>, 2026.<br>
+    <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1452" target="_blank">Paper</a>
+  </li>
 </ul>
 
 <hr>
