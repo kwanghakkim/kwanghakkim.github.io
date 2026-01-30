@@ -5,8 +5,6 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
-google_analytics: G-KCD8DLF565
-
 ############################
 # --- Required options --- #
 ############################
@@ -16,6 +14,8 @@ title: Kwang Hak Kim
 
 # Short description of your site
 description: Personal Website
+
+google_analytics: G-KCD8DLF565
 
 ###############################################
 # --- List of links in the navigation bar --- #
