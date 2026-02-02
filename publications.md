@@ -19,7 +19,7 @@ Google Scholar
     <strong>Constant-Sum High-Order Barrier Functions for Safety Between Parallel Boundaries</strong><br>
     <strong>Kwang Hak Kim</strong>, Mamadou Diagne, Miroslav Krstić<br>
     <em>IEEE Control Systems Letters</em>, vol. 9, pp. 1447–1452, 2025.<br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/11107510" target="_blank">Paper</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11054265/" target="_blank">Paper</a>
   </li>
 </ul>
 
@@ -33,7 +33,7 @@ Google Scholar
     Application to Unknown Moving Obstacle Collision Avoidance</strong><br>
     <strong>Kwang Hak Kim</strong>, Mamadou Diagne, Miroslav Krstić<br>
     <em>American Control Conference (ACC)</em>, pp. 355–360, IEEE, 2025.<br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/11054265/" target="_blank">Paper</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11107510" target="_blank">Paper</a>
   </li>
   <li>
     <strong>Safety-Critical Control Using Fully Nonlinear Equations of Relative Motion for Formation Flying in Cislunar Space</strong><br>
