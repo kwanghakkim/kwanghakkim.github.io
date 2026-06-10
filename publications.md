@@ -99,13 +99,13 @@ Google Scholar
     <em>Submitted to Automatica</em>.
   </li>
   
-  </li>
+  <li>
     <strong>Global Exponential Stabilization of a 3D Nonholonomic Vehicle in Spherical Coordinates</strong><br>
     <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
     <em>Submitted to Conference on Decision and Control (CDC 2026)</em>.
   </li>
   
-  </li>
+  <li>
     <strong>Global Exponential Stabilization of the Kinematic Bicycle Model of a Car in Polar Coordinates</strong><br>
     Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi, Miroslav Krstić<br>
     <em>Submitted to Conference on Decision and Control (CDC 2026).
