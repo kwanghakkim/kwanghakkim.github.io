@@ -1,13 +1,14 @@
 # project
 _site
 .sass-cache
+.jekyll-metadata
 .vagrant
+
+# local gem install
+.bundle/
+vendor/
 
 # general
 .DS_Store
 Thumbs.db
 ehthumbs.db
-
-Gemfile.lock
-
-beautiful-jekyll-theme-*.gem

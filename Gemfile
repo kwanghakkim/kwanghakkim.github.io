@@ -2,11 +2,8 @@
 
 source "https://rubygems.org"
 
-gem "tzinfo-data"
+# Mirrors the GitHub Pages production build (site deploys from branch)
+gem "github-pages", group: :jekyll_plugins
 
-gem 'jekyll-paginate'
-
-gem "github-pages"
-
-# gemspec
-
+# Required by `jekyll serve` on Ruby 3.x (webrick left the stdlib in 3.0)
+gem "webrick"
