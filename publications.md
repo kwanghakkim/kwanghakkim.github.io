@@ -32,7 +32,7 @@ Google Scholar
     <strong>Robust Control Barrier Function Design for High Relative Degree Systems:
     Application to Unknown Moving Obstacle Collision Avoidance</strong><br>
     <strong>Kwang Hak Kim</strong>, Mamadou Diagne, Miroslav Krstić<br>
-    <em>American Control Conference (ACC)</em>, pp. 355–360, IEEE, 2025.<br>
+    <em>American Control Conference (ACC)</em>, Denver, CO, pp. 355–360, IEEE, 2025.<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/11107510" target="_blank">Paper</a>
   </li>
   <li>
@@ -44,7 +44,7 @@ Google Scholar
   <li>
     <strong>Inverse Optimal Feedback and Gain Margins for Unicycle Stabilization</strong><br>
     <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
-    <em>Accepted to American Control Conference (ACC 2026)</em>.<br>
+    <em>Accepted to American Control Conference (ACC 2026)</em>, New Orleans, LA.<br>
     <a href="https://arxiv.org/abs/2509.25563" target="_blank">Paper</a>
   </li>
 
@@ -52,7 +52,7 @@ Google Scholar
     <strong>Modular Design of Strict Control Lyapunov Functions for Global Stabilization of the
     Unicycle in Polar Coordinates</strong><br>
     Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Miroslav Krstić<br>
-    <em>Accepted to American Control Conference (ACC 2026)</em>.<br>
+    <em>Accepted to American Control Conference (ACC 2026)</em>, New Orleans, LA.<br>
     <a href="https://arxiv.org/abs/2509.25575" target="_blank">Paper</a>
   </li>
 
@@ -60,21 +60,33 @@ Google Scholar
     <strong>Integrator Forwarding Design for Unicycles with Constant and Actuated Velocity
     in Polar Coordinates</strong><br>
     Miroslav Krstić, Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi<br>
-    <em>Accepted to American Control Conference (ACC 2026)</em>.<br>
+    <em>Accepted to American Control Conference (ACC 2026)</em>, New Orleans, LA.<br>
     <a href="https://arxiv.org/abs/2509.25579" target="_blank">Paper</a>
   </li>
 
   <li>
     <strong>Half-Global Deadbeat Parking for Dubins Vehicle</strong><br>
     Miroslav Krstić, <strong>Kwang Hak Kim</strong>, Velimir Todorovski<br>
-    <em>Accepted to American Control Conference (ACC 2026)</em>.<br>
+    <em>Accepted to American Control Conference (ACC 2026)</em>, New Orleans, LA.<br>
     <a href="https://arxiv.org/abs/2509.25571" target="_blank">Paper</a>
+  </li>
+
+  <li>
+    <strong>Global Exponential Stabilization of a 3D Nonholonomic Vehicle in Spherical Coordinates</strong><br>
+    <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
+    <em>Accepted to Conference on Decision and Control (CDC 2026)</em>.
+  </li>
+
+  <li>
+    <strong>Global Exponential Stabilization of the Kinematic Bicycle Model of a Car in Polar Coordinates</strong><br>
+    Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi, Miroslav Krstić<br>
+    <em>Accepted to Conference on Decision and Control (CDC 2026)</em>.
   </li>
 </ul>
 
 <hr>
 
-<h3>Preprints and Submissions</h3>
+<h3>Manuscripts in Review</h3>
 
 <ul class="publication-list">
 
@@ -98,17 +110,5 @@ Google Scholar
     Miroslav Krstić, <strong>Kwang Hak Kim</strong>, Velimir Todorovski<br>
     <em>Submitted to Automatica</em>.
   </li>
-  
-  <li>
-    <strong>Global Exponential Stabilization of a 3D Nonholonomic Vehicle in Spherical Coordinates</strong><br>
-    <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
-    <em>Submitted to Conference on Decision and Control (CDC 2026)</em>.
-  </li>
-  
-  <li>
-    <strong>Global Exponential Stabilization of the Kinematic Bicycle Model of a Car in Polar Coordinates</strong><br>
-    Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi, Miroslav Krstić<br>
-    <em>Submitted to Conference on Decision and Control (CDC 2026)</em>.
-  </li>
-      
+
 </ul>
