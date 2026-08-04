@@ -123,6 +123,7 @@ defaults:
 
 # Exclude these files from production site
 exclude:
+  - CLAUDE.md
   - Gemfile
   - Gemfile.lock
   - LICENSE
