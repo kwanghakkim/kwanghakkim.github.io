@@ -34,12 +34,7 @@ navbar-links:
 # --- Logo --- #
 ################
 
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/hak_pic.jpg"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# Navbar avatar removed — the homepage hero owns the portrait (Direction 1 redesign)
 
 
 #####################################
@@ -83,17 +78,19 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#1F2937"
-link-col: "#1E3A8A"
-hover-col: "#1D4ED8"
-navbar-col: "#F3F4F6"
-navbar-text-col: "#111827"
-navbar-border-col: "#D1D5DB"
-footer-col: "#F3F4F6"
-footer-text-col: "#374151"
-footer-link-col: "#1E3A8A"
-footer-hover-col: "#1D4ED8"
+# Direction 1 "Margins of Safety" tokens:
+# paper #FBFBF9 · ink #101828 · flight-orange #E8490F · hatch #98A2B3 · panel #EEF0ED
+page-col: "#FBFBF9"
+text-col: "#101828"
+link-col: "#101828"
+hover-col: "#E8490F"
+navbar-col: "#FBFBF9"
+navbar-text-col: "#101828"
+navbar-border-col: "#DDE0DA"
+footer-col: "#EEF0ED"
+footer-text-col: "#475467"
+footer-link-col: "#101828"
+footer-hover-col: "#E8490F"
 
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
