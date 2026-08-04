@@ -51,18 +51,17 @@ use-site-title: true
 
 <section class="news" aria-labelledby="news-label">
   <h2 class="section-label" id="news-label">News</h2>
+  <!-- News items live in _data/news.yml (newest first, add at top).
+       The homepage shows the first 4; /news shows all of them. -->
   <ul class="news-list">
-    <!-- ============================================================
-         ADD NEW NEWS ITEMS DIRECTLY BELOW THIS COMMENT (newest first).
-         Copy this line and edit the date + text:
-         <li><span class="news-date">Mon YYYY</span> Your update here.</li>
-         ============================================================ -->
-    <li><span class="news-date">Jul 2026</span> Two papers accepted to CDC 2026.</li>
-    <li><span class="news-date">Jun 2026</span> Started a GNC research internship at NASA Langley Research Center (mentor: Dr.&nbsp;Luis G. Crespo).</li>
-    <li><span class="news-date">May 2026</span> Presented at the NISEC Annual Project Review (UCSD).</li>
-    <li><span class="news-date">May 2026</span> Attended and presented at ACC 2026.</li>
-    <li><span class="news-date">Jun 2025</span> MAE PhD Outstanding Teaching Assistant of the Year (UCSD).</li>
+    {% for item in site.data.news limit: 4 %}
+    <li>
+      <span class="news-date">{{ item.date }}</span>
+      <span class="news-text">{% if item.link %}<a href="{{ item.link }}">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</span>
+    </li>
+    {% endfor %}
   </ul>
+  <p class="news-more"><a href="{{ '/news' | relative_url }}">All updates &rarr;</a></p>
 </section>
 
 <div class="rule-barrier" role="presentation"></div>

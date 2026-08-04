@@ -1,0 +1,22 @@
+# ──────────────────────────────────────────────────────────────────────
+# NEWS — single source of truth for the homepage News section (shows the
+# first 4 entries) and the /news page (shows all entries).
+#
+# NEW ITEMS GO AT THE TOP. The order in this file IS the display order —
+# nothing is sorted automatically, so there are no date-format gotchas.
+#
+# To add an item, paste this line at the top of the list and edit it:
+#   - { date: "Aug 2026", text: "Your update here." }
+#
+# Optional: add a link to make the item text clickable:
+#   - { date: "Aug 2026", text: "Your update here.", link: "https://example.com" }
+#
+# The year shown in "date" is also used for the year groupings on /news,
+# so end the date with the 4-digit year (e.g. "Jul 2026").
+# ──────────────────────────────────────────────────────────────────────
+
+- { date: "Jul 2026", text: "Two papers accepted to CDC 2026." }
+- { date: "Jun 2026", text: "Started a GNC research internship at NASA Langley Research Center (mentor: Dr. Luis G. Crespo)." }
+- { date: "May 2026", text: "Presented at the NISEC Annual Project Review (UCSD)." }
+- { date: "May 2026", text: "Attended and presented at ACC 2026." }
+- { date: "Jun 2025", text: "MAE PhD Outstanding Teaching Assistant of the Year (UCSD)." }

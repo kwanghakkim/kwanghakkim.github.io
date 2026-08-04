@@ -25,6 +25,7 @@ gtag: G-KCD8DLF565
 navbar-links:
   Home: "./"
   Publications: "publications"
+  News: "news"
   CV: "/assets/Kwang_Hak_Kim_CV_website.pdf"
 
 ################
