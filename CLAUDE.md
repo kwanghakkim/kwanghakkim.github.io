@@ -25,6 +25,12 @@ Jekyll site on a beautiful-jekyll fork, deployed by GitHub Pages.
   repo). **The CV is the source of truth for paper status and venues** — only change entries
   when the user provides an updated CV or explicit instructions. Structure: Journal Articles /
   Conference Papers / Manuscripts in Review.
+- **Publication ordering**: most recent first within each section, by **actual event/
+  publication date, not the year string** (e.g. CDC 2026 = December, ACC 2026 = July,
+  AIAA SciTech 2026 = January — so CDC 2026 outranks ACC 2026 despite the same year).
+  Manuscripts in review order by arXiv submission date (from the arXiv abs page); entries
+  with no arXiv link keep their current relative position. **When dates tie, first-author
+  (Kim) papers go first.**
 - **CV PDF**: `assets/Kwang_Hak_Kim_CV_website.pdf`, linked from the hero and the navbar.
 - **Homepage** (`index.html`): hero (name + role only — advisors/lab belong in the bio, not
   the header), orange NOW card for current position, bio, News (top 4), Talks/Teaching/

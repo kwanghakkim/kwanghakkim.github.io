@@ -29,18 +29,17 @@ Google Scholar
 
 <ul class="publication-list">
   <li>
-    <strong>Robust Control Barrier Function Design for High Relative Degree Systems:
-    Application to Unknown Moving Obstacle Collision Avoidance</strong><br>
-    <strong>Kwang Hak Kim</strong>, Mamadou Diagne, Miroslav Krstić<br>
-    <em>American Control Conference (ACC)</em>, Denver, CO, pp. 355–360, IEEE, 2025.<br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/11107510" target="_blank">Paper</a>
+    <strong>Global Exponential Stabilization of a 3D Nonholonomic Vehicle in Spherical Coordinates</strong><br>
+    <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
+    <em>Accepted to Conference on Decision and Control (CDC 2026)</em>.
   </li>
+
   <li>
-    <strong>Safety-Critical Control Using Fully Nonlinear Equations of Relative Motion for Formation Flying in Cislunar Space</strong><br>
-    Evelia Zapien Ramos, <strong>Kwang Hak Kim</strong>, Miroslav Krstić, Aaron J. Rosengren<br>
-    <em>AIAA SciTech 2026 Forum</em>, 2026.<br>
-    <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1452" target="_blank">Paper</a>
+    <strong>Global Exponential Stabilization of the Kinematic Bicycle Model of a Car in Polar Coordinates</strong><br>
+    Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi, Miroslav Krstić<br>
+    <em>Accepted to Conference on Decision and Control (CDC 2026)</em>.
   </li>
+
   <li>
     <strong>Inverse Optimal Feedback and Gain Margins for Unicycle Stabilization</strong><br>
     <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
@@ -72,15 +71,18 @@ Google Scholar
   </li>
 
   <li>
-    <strong>Global Exponential Stabilization of a 3D Nonholonomic Vehicle in Spherical Coordinates</strong><br>
-    <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
-    <em>Accepted to Conference on Decision and Control (CDC 2026)</em>.
+    <strong>Safety-Critical Control Using Fully Nonlinear Equations of Relative Motion for Formation Flying in Cislunar Space</strong><br>
+    Evelia Zapien Ramos, <strong>Kwang Hak Kim</strong>, Miroslav Krstić, Aaron J. Rosengren<br>
+    <em>AIAA SciTech 2026 Forum</em>, 2026.<br>
+    <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1452" target="_blank">Paper</a>
   </li>
 
   <li>
-    <strong>Global Exponential Stabilization of the Kinematic Bicycle Model of a Car in Polar Coordinates</strong><br>
-    Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi, Miroslav Krstić<br>
-    <em>Accepted to Conference on Decision and Control (CDC 2026)</em>.
+    <strong>Robust Control Barrier Function Design for High Relative Degree Systems:
+    Application to Unknown Moving Obstacle Collision Avoidance</strong><br>
+    <strong>Kwang Hak Kim</strong>, Mamadou Diagne, Miroslav Krstić<br>
+    <em>American Control Conference (ACC)</em>, Denver, CO, pp. 355–360, IEEE, 2025.<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11107510" target="_blank">Paper</a>
   </li>
 </ul>
 
@@ -91,18 +93,18 @@ Google Scholar
 <ul class="publication-list">
 
   <li>
-    <strong>Nonholonomic Robot Parking by Feedback — Part I: Modular Strict CLF Designs</strong><br>
-    Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi, Miroslav Krstić<br>
-    <em>Submitted to IEEE Transactions on Automatic Control</em>.<br>
-    <a href="https://arxiv.org/abs/2511.15119" target="_blank">Paper</a>
-  </li>
-
-  <li>
     <strong>Nonholonomic Robot Parking by Feedback — Part II: Nonmodular, Inverse Optimal,
     Adaptive, Prescribed/Fixed-Time, and Safe Designs</strong><br>
     <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
     <em>Submitted to IEEE Transactions on Automatic Control</em>.<br>
     <a href="https://arxiv.org/abs/2511.15219" target="_blank">Paper</a>
+  </li>
+
+  <li>
+    <strong>Nonholonomic Robot Parking by Feedback — Part I: Modular Strict CLF Designs</strong><br>
+    Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi, Miroslav Krstić<br>
+    <em>Submitted to IEEE Transactions on Automatic Control</em>.<br>
+    <a href="https://arxiv.org/abs/2511.15119" target="_blank">Paper</a>
   </li>
 
   <li>
