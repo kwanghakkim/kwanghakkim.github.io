@@ -33,8 +33,9 @@ Jekyll site on a beautiful-jekyll fork, deployed by GitHub Pages.
   (Kim) papers go first.**
 - **CV PDF**: `assets/Kwang_Hak_Kim_CV_website.pdf`, linked from the hero and the navbar.
 - **Homepage** (`index.html`): hero (name + role only — advisors/lab belong in the bio, not
-  the header), orange NOW card for current position, bio, News (top 4), Talks/Teaching/
-  Service/Awards 2×2 grid, personal line at the end.
+  the header), bio, News (top 4), Talks/Teaching/Service/Awards 2×2 grid, personal line at
+  the end. An orange NOW card in the hero marks a current position — only while one exists
+  (removed Sept 2026 when the NASA Langley internship ended; re-add only on user request).
 
 ## Design — Direction 1 "Margins of Safety"
 
@@ -42,8 +43,8 @@ Flight-test document restyle of beautiful-jekyll (CSS + config only — layouts/
 not modified for styling and shouldn't be).
 
 - Tokens: paper `#FBFBF9` · ink `#101828` · flight-orange `#E8490F` · hatch `#98A2B3` ·
-  panel `#EEF0ED`. **Orange is the only accent** and appears at rest in exactly one place
-  (the NOW card); everywhere else only on hover/focus. Keep that restraint.
+  panel `#EEF0ED`. **Orange is the only accent** and appears at rest in at most one place
+  (the NOW card, when present); everywhere else only on hover/focus. Keep that restraint.
 - Type: IBM Plex Sans (display) / IBM Plex Serif (body) / IBM Plex Mono (dates, labels, nav).
   Loaded via `@import` in main.css; theme fonts rethemed through `--body-font`/`--header-font`.
 - Signature element: the **barrier rule** — dividers drawn as a safe-set boundary (ink line

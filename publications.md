@@ -93,6 +93,12 @@ Google Scholar
 <ul class="publication-list">
 
   <li>
+    <strong>APOGEE: Fuel-Efficient Formation Flying via Safe Extremum Seeking with Modulated Excitations</strong><br>
+    <strong>Kwang Hak Kim</strong>, Luis G. Crespo, Michael J. Acheson<br>
+    <em>Submitted to American Control Conference (ACC 2027)</em>.
+  </li>
+
+  <li>
     <strong>Nonholonomic Robot Parking by Feedback — Part II: Nonmodular, Inverse Optimal,
     Adaptive, Prescribed/Fixed-Time, and Safe Designs</strong><br>
     <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
