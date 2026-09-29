@@ -31,7 +31,8 @@ Jekyll site on a beautiful-jekyll fork, deployed by GitHub Pages.
   Manuscripts in review order by arXiv submission date (from the arXiv abs page); entries
   with no arXiv link keep their current relative position. **When dates tie, first-author
   (Kim) papers go first.**
-- **CV PDF**: `assets/Kwang_Hak_Kim_CV_website.pdf`, linked from the hero and the navbar.
+- **CV PDF**: `assets/Kwang_Hak_Kim_CV.pdf` (no version suffix in the filename), linked from
+  the hero and the navbar. Renamed from `Kwang_Hak_Kim_CV_website.pdf` in Sept 2026.
 - **Homepage** (`index.html`): hero (name + role only — advisors/lab belong in the bio, not
   the header), bio, News (top 4), Talks/Teaching/Service/Awards 2×2 grid, personal line at
   the end. An orange NOW card in the hero marks a current position — only while one exists
