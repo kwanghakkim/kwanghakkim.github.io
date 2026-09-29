@@ -31,20 +31,22 @@ Google Scholar
   <li>
     <strong>Global Exponential Stabilization of a 3D Nonholonomic Vehicle in Spherical Coordinates</strong><br>
     <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
-    <em>Accepted to Conference on Decision and Control (CDC 2026)</em>.
+    <em>Accepted to Conference on Decision and Control (CDC 2026)</em>.<br>
+    <a href="https://arxiv.org/abs/2609.24192" target="_blank">Paper</a>
   </li>
 
   <li>
     <strong>Global Exponential Stabilization of the Kinematic Bicycle Model of a Car in Polar Coordinates</strong><br>
     Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi, Miroslav Krstić<br>
-    <em>Accepted to Conference on Decision and Control (CDC 2026)</em>.
+    <em>Accepted to Conference on Decision and Control (CDC 2026)</em>.<br>
+    <a href="https://arxiv.org/abs/2607.26442" target="_blank">Paper</a>
   </li>
 
   <li>
     <strong>Inverse Optimal Feedback and Gain Margins for Unicycle Stabilization</strong><br>
     <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
     <em>Accepted to American Control Conference (ACC 2026)</em>, New Orleans, LA.<br>
-    <a href="https://arxiv.org/abs/2509.25563" target="_blank">Paper</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11615913/" target="_blank">Paper</a>
   </li>
 
   <li>
@@ -52,7 +54,7 @@ Google Scholar
     Unicycle in Polar Coordinates</strong><br>
     Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Miroslav Krstić<br>
     <em>Accepted to American Control Conference (ACC 2026)</em>, New Orleans, LA.<br>
-    <a href="https://arxiv.org/abs/2509.25575" target="_blank">Paper</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11615380/" target="_blank">Paper</a>
   </li>
 
   <li>
@@ -60,14 +62,14 @@ Google Scholar
     in Polar Coordinates</strong><br>
     Miroslav Krstić, Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi<br>
     <em>Accepted to American Control Conference (ACC 2026)</em>, New Orleans, LA.<br>
-    <a href="https://arxiv.org/abs/2509.25579" target="_blank">Paper</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11615661/" target="_blank">Paper</a>
   </li>
 
   <li>
     <strong>Half-Global Deadbeat Parking for Dubins Vehicle</strong><br>
     Miroslav Krstić, <strong>Kwang Hak Kim</strong>, Velimir Todorovski<br>
     <em>Accepted to American Control Conference (ACC 2026)</em>, New Orleans, LA.<br>
-    <a href="https://arxiv.org/abs/2509.25571" target="_blank">Paper</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11615429/" target="_blank">Paper</a>
   </li>
 
   <li>
