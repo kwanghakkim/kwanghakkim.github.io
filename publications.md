@@ -45,7 +45,7 @@ Google Scholar
   <li>
     <strong>Inverse Optimal Feedback and Gain Margins for Unicycle Stabilization</strong><br>
     <strong>Kwang Hak Kim</strong>, Velimir Todorovski, Miroslav Krstić<br>
-    <em>Accepted to American Control Conference (ACC 2026)</em>, New Orleans, LA.<br>
+    <em>American Control Conference (ACC)</em>, New Orleans, LA, pp. 1110–1115, IEEE, 2026.<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/11615913/" target="_blank">Paper</a>
   </li>
 
@@ -53,7 +53,7 @@ Google Scholar
     <strong>Modular Design of Strict Control Lyapunov Functions for Global Stabilization of the
     Unicycle in Polar Coordinates</strong><br>
     Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Miroslav Krstić<br>
-    <em>Accepted to American Control Conference (ACC 2026)</em>, New Orleans, LA.<br>
+    <em>American Control Conference (ACC)</em>, New Orleans, LA, pp. 1122–1127, IEEE, 2026.<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/11615380/" target="_blank">Paper</a>
   </li>
 
@@ -61,14 +61,14 @@ Google Scholar
     <strong>Integrator Forwarding Design for Unicycles with Constant and Actuated Velocity
     in Polar Coordinates</strong><br>
     Miroslav Krstić, Velimir Todorovski, <strong>Kwang Hak Kim</strong>, Alessandro Astolfi<br>
-    <em>Accepted to American Control Conference (ACC 2026)</em>, New Orleans, LA.<br>
+    <em>American Control Conference (ACC)</em>, New Orleans, LA, pp. 1128–1133, IEEE, 2026.<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/11615661/" target="_blank">Paper</a>
   </li>
 
   <li>
     <strong>Half-Global Deadbeat Parking for Dubins Vehicle</strong><br>
     Miroslav Krstić, <strong>Kwang Hak Kim</strong>, Velimir Todorovski<br>
-    <em>Accepted to American Control Conference (ACC 2026)</em>, New Orleans, LA.<br>
+    <em>American Control Conference (ACC)</em>, New Orleans, LA, pp. 1116–1121, IEEE, 2026.<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/11615429/" target="_blank">Paper</a>
   </li>
 
