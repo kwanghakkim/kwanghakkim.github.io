@@ -93,8 +93,14 @@ Google Scholar
 <ul class="publication-list">
 
   <li>
-    <strong>APOGEE: Fuel-Efficient Formation Flying via Safe Extremum Seeking with Modulated Excitations</strong><br>
+    <strong>Fuel-Efficient Formation Flying via Constrained Extremum Seeking</strong><br>
     <strong>Kwang Hak Kim</strong>, Luis G. Crespo, Michael J. Acheson<br>
+    <em>Submitted to American Control Conference (ACC 2027)</em>.
+  </li>
+
+  <li>
+    <strong>Inverse Optimal Feedback Stabilization of 3D Nonholonomic Vehicles in Spherical Coordinates</strong><br>
+    <strong>Kwang Hak Kim</strong>, Mamadou Diagne, Miroslav Krstić<br>
     <em>Submitted to American Control Conference (ACC 2027)</em>.
   </li>
 
